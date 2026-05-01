@@ -31,6 +31,17 @@ email_campaign_system/
 │── logs.txt
 
 
+⚙️ Setup Configuration
+
+1. Rename `config.example.py` to `config.py`
+2. Add your email and app password
+
+Example:
+
+EMAIL = "your_email@gmail.com"  
+PASSWORD = "your_app_password"
+
+
 ▶️ How to Run
 1. Install Python
 2. Add your email & app password in `main.py` 
