@@ -33,6 +33,6 @@ email_campaign_system/
 
 ▶️ How to Run
 1. Install Python
-2. Add your email & app password in `main.py`
+2. Add your email & app password in `main.py` 
 3. Run:
 
